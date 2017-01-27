@@ -1,2 +1,2 @@
 # crt-royale_reshade
-A port of CRT-Royale for ReShade.
+A port of CRT-Royale from RetroArch (cg) for ReShade (fx).
